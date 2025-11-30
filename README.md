@@ -1,4 +1,7 @@
 # PG-DPO Experiments
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 This repository contains a standalone Python script (`Infinite_to_finite.py`) that trains investment and consumption policies with stochastic labor income using actor–critic reinforcement learning and a hedging-only optimizer for convergence checks.
 
